@@ -15,3 +15,4 @@ If the bean scope is 'request', that is for an HTTP request, if the application 
 method will get called with every new request
 
 [https://www.baeldung.com/running-setup-logic-on-startup-in-spring](Nice blog about bean initializations)
+
